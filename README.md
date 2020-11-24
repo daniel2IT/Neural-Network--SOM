@@ -39,7 +39,7 @@ function to preserve the topological properties of the input space.
     <img src="Steps/1-Open.png">
 </p>
 
-## Open Script file and run this red marked section, hat responsible for normalize data
+## Open Script file and run this red marked section, that responsible for normalize data
 
 <p align="center">
     <img src="Steps/2-Run-Script.png">

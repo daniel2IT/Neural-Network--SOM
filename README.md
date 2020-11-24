@@ -6,6 +6,8 @@ Self-organizing maps differ from other artificial neural networks as they apply 
 error-correction learning (such as backpropagation with gradient descent), and in the sense that they use a neighborhood
 function to preserve the topological properties of the input space.
 
- <img width="260" height="200" src="https://miro.medium.com/max/819/1*QG7afWQKjY3IpezhNQMzBg.png">
- 
- # Using Description Coming Soon...
+<p align="center">
+    <img width="260" height="200" src="https://miro.medium.com/max/819/1*QG7afWQKjY3IpezhNQMzBg.png">
+</p>
+
+ #  USING Instruction/Description Coming Soon...

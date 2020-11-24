@@ -48,6 +48,6 @@ function to preserve the topological properties of the input space.
 ## And now, after normalizing data, we can call the display section and perform a kohonen function
 
 <p align="center">
-    <img src="Steps/3-Run-Script.png">
+    <img src="Steps/3-Run-Script-.png">
 </p>
 

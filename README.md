@@ -42,7 +42,7 @@ function to preserve the topological properties of the input space.
 ## Open Script file and run this red marked section, hat responsible for normalize data
 
 <p align="center">
-    <img width="460" height="300" src=" Steps/2-Open.png">
+    <img width="460" height="300" src=" Steps\2-Open.png">
 </p>
 
 ## And now, after normalizing data, we can call the display section and perform a kohonen function

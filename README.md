@@ -56,7 +56,7 @@ function to preserve the topological properties of the input space.
 
 <p align="center">
     <h2> Counts Plot </h2>
-    <img src="Counts-Plot//1.png">
+    <img src="Counts Plot/1.png">
 </p>
 
 

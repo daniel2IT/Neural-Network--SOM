@@ -62,19 +62,19 @@ function to preserve the topological properties of the input space.
 
 <p align="center">
     <h2> Mapping Plot </h2>
-    <img src="Mapping-Plot/1.png">
+    <img src="Mapping Plot/1.png">
 </p>
 
 
 <p align="center">
-    <h2> SOM-Neighbour-Distances-Class </h2>
-    <img src="SOM-Neighbour-Distances-Class/1.png">
+    <h2> SOM Neighbour Distances-Class </h2>
+    <img src="SOM Neighbour Distances-Class/1.png">
 </p>
 
 
 <p align="center">
-    <h2> SOM-Neighbour-Distances-Cluster </h2>
-    <img src="SOM-Neighbour-Distances-Cluster/1.png">
+    <h2> SOM Neighbour Distances-Cluster </h2>
+    <img src="SOM Neighbour Distances-Cluster/1.png">
 </p>
 
 

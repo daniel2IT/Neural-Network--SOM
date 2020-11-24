@@ -7,7 +7,7 @@ error-correction learning (such as backpropagation with gradient descent), and i
 function to preserve the topological properties of the input space.
 
 <p align="center">
-    <img width="260" height="200" src="https://miro.medium.com/max/819/1*QG7afWQKjY3IpezhNQMzBg.png">
+    <img width="460" height="300" src="https://wonikjang.github.io/result_images/som_resized.png">
 </p>
 
  #  USING Instruction/Description Coming Soon...

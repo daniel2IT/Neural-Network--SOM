@@ -29,25 +29,25 @@ function to preserve the topological properties of the input space.
 ## Make sure that on Separator section, you choices Whitespace 
 
 <p align="center">
-    <img width="460" height="300" src="Steps/Importing.png">
+    <img src="Steps/Importing.png">
 </p>
 
 ## Now import one of .R Scripts into project
 ## (red color is our .data , yellow is our .R Scripts)
 
 <p align="center">
-    <img width="460" height="300" src="Steps/1-Open.png">
+    <img src="Steps/1-Open.png">
 </p>
 
 ## Open Script file and run this red marked section, hat responsible for normalize data
 
 <p align="center">
-    <img width="460" height="300" src="Steps/2-Open.png">
+    <img src="Steps/2-Run-Script.png">
 </p>
 
 ## And now, after normalizing data, we can call the display section and perform a kohonen function
 
 <p align="center">
-    <img width="460" height="300" src="Steps/3-Open.png">
+    <img src="Steps/3-Run-Script.png">
 </p>
 

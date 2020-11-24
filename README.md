@@ -51,3 +51,30 @@ function to preserve the topological properties of the input space.
     <img src="Steps/3-Run-Script-.png">
 </p>
 
+
+# Here each way examples
+
+<p align="center">
+    <h2> Counts Plot </h2>
+    <img src="Counts-Plot//1.png">
+</p>
+
+
+<p align="center">
+    <h2> Mapping Plot </h2>
+    <img src="Mapping-Plot/1.png">
+</p>
+
+
+<p align="center">
+    <h2> SOM-Neighbour-Distances-Class </h2>
+    <img src="SOM-Neighbour-Distances-Class/1.png">
+</p>
+
+
+<p align="center">
+    <h2> SOM-Neighbour-Distances-Cluster </h2>
+    <img src="SOM-Neighbour-Distances-Cluster/1.png">
+</p>
+
+
